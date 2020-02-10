@@ -1,7 +1,7 @@
 # DigitalVLSI
 This repository consists of verilog codes for Digital VLSI Lab (EC39004), IIT KGP.
 
-** Steps to create your own project!
+# Steps to create your own project!
 
 * Download all .v files from the repository.
 * Create New Project in your Xilinx ISE.
